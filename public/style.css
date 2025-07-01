@@ -1,0 +1,42 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(45deg, #004aad, #ffa500);
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+.navbar {
+  padding: 20px;
+  background-color: rgba(0,0,0,0.4);
+}
+.menu button {
+  padding: 10px 20px;
+  margin: 10px;
+  background: white;
+  color: #004aad;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+input {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+  border: none;
+}
+#adminPanel {
+  margin-top: 20px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 12px;
+  padding: 10px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid white;
+  padding: 8px;
+}

@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>English Trainer Multiplayer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="navbar">
+    <h1>🇬🇧 English Trainer</h1>
+  </div>
+
+  <div class="menu">
+    <button onclick="showLobby()">🎮 Multiplayer starten</button>
+    <button onclick="showAdmin()">🛠️ Admin-Panel</button>
+  </div>
+
+  <div id="lobbyArea" style="display:none;">
+    <input id="nameInput" placeholder="Dein Name" />
+    <input id="roomInput" placeholder="Lobby-Code" />
+    <button onclick="joinLobby()">🚪 Beitreten</button>
+  </div>
+
+  <div id="gameArea" style="display:none;"></div>
+  <div id="resultArea"></div>
+
+  <div id="adminPanel" style="display:none;">
+    <h2>📊 Admin Panel</h2>
+    <button onclick="loadDatabase()">🔄 Lade Daten</button>
+    <table id="dataTable">
+      <thead><tr><th>Spieler A</th><th>Spieler B</th><th>Gewinner</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
