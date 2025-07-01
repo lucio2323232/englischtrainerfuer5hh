@@ -39,6 +39,7 @@ wss.on("connection", (ws) => {
 });
 
 server.listen(process.env.PORT || 3000, () => console.log("Server ready"));
+<<<<<<< HEAD
 
 const WebSocket = require('ws');
 const wss = new WebSocket.Server({ server });
@@ -86,3 +87,5 @@ wss.on('connection', function connection(ws) {
     }
   });
 });
+=======
+>>>>>>> 6ccb21ee41cb91dc423d4d948a902d568807be91
