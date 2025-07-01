@@ -1,0 +1,198 @@
+[
+  {
+    "english": "school",
+    "german": "Schule"
+  },
+  {
+    "english": "homework",
+    "german": "Hausaufgaben"
+  },
+  {
+    "english": "friend",
+    "german": "Freund"
+  },
+  {
+    "english": "teacher",
+    "german": "Lehrer"
+  },
+  {
+    "english": "lesson",
+    "german": "Unterricht"
+  },
+  {
+    "english": "classroom",
+    "german": "Klassenzimmer"
+  },
+  {
+    "english": "pencil",
+    "german": "Bleistift"
+  },
+  {
+    "english": "book",
+    "german": "Buch"
+  },
+  {
+    "english": "question",
+    "german": "Frage"
+  },
+  {
+    "english": "answer",
+    "german": "Antwort"
+  },
+  {
+    "english": "test",
+    "german": "Test"
+  },
+  {
+    "english": "playground",
+    "german": "Spielplatz"
+  },
+  {
+    "english": "holiday",
+    "german": "Ferien"
+  },
+  {
+    "english": "student",
+    "german": "Schüler"
+  },
+  {
+    "english": "break",
+    "german": "Pause"
+  },
+  {
+    "english": "subject",
+    "german": "Fach"
+  },
+  {
+    "english": "math",
+    "german": "Mathe"
+  },
+  {
+    "english": "english",
+    "german": "Englisch"
+  },
+  {
+    "english": "music",
+    "german": "Musik"
+  },
+  {
+    "english": "sports",
+    "german": "Sport"
+  },
+  {
+    "english": "history",
+    "german": "Geschichte"
+  },
+  {
+    "english": "geography",
+    "german": "Geografie"
+  },
+  {
+    "english": "science",
+    "german": "Naturwissenschaften"
+  },
+  {
+    "english": "library",
+    "german": "Bibliothek"
+  },
+  {
+    "english": "computer",
+    "german": "Computer"
+  },
+  {
+    "english": "lunch",
+    "german": "Mittagessen"
+  },
+  {
+    "english": "write",
+    "german": "schreiben"
+  },
+  {
+    "english": "read",
+    "german": "lesen"
+  },
+  {
+    "english": "learn",
+    "german": "lernen"
+  },
+  {
+    "english": "speak",
+    "german": "sprechen"
+  },
+  {
+    "english": "listen",
+    "german": "zuhören"
+  },
+  {
+    "english": "paint",
+    "german": "malen"
+  },
+  {
+    "english": "sing",
+    "german": "singen"
+  },
+  {
+    "english": "run",
+    "german": "rennen"
+  },
+  {
+    "english": "jump",
+    "german": "springen"
+  },
+  {
+    "english": "draw",
+    "german": "zeichnen"
+  },
+  {
+    "english": "schoolbag",
+    "german": "Schultasche"
+  },
+  {
+    "english": "desk",
+    "german": "Schreibtisch"
+  },
+  {
+    "english": "chair",
+    "german": "Stuhl"
+  },
+  {
+    "english": "window",
+    "german": "Fenster"
+  },
+  {
+    "english": "door",
+    "german": "Tür"
+  },
+  {
+    "english": "blackboard",
+    "german": "Tafel"
+  },
+  {
+    "english": "pen",
+    "german": "Kugelschreiber"
+  },
+  {
+    "english": "ruler",
+    "german": "Lineal"
+  },
+  {
+    "english": "eraser",
+    "german": "Radiergummi"
+  },
+  {
+    "english": "school trip",
+    "german": "Klassenfahrt"
+  },
+  {
+    "english": "home",
+    "german": "Zuhause"
+  },
+  {
+    "english": "study",
+    "german": "lernen"
+  },
+  {
+    "english": "grade",
+    "german": "Note"
+  }
+]
